@@ -1,0 +1,9 @@
+# Config is currently not used (weights are in code).
+# You can extend the script to read weights from here.
+weights:
+  rsi: 0.25
+  mfi: 0.15
+  bb: 0.20
+  vol: 0.20
+  atr: 0.10
+  fund: 0.10
